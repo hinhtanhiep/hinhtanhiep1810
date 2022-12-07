@@ -7,7 +7,7 @@
 
 <body>
     <?php include 'sub/menu.php'?>
-
+    <!-- sua -->
     <!-- -----------------cart item details------------------- -->
     <div class="small-container cart-page">
         <table>
