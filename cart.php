@@ -7,12 +7,12 @@
 
 <body>
     <?php include 'sub/menu.php'?>
-    <!-- sua sua-->
+    <!-- sua sua 123-->
     <!-- -----------------cart item details------------------- -->
     <div class="small-container cart-page">
         <table>
             <tr>
-                <th>Sản Phẩm</th>
+                <th>Sản Phẩm A</th>
                 <th>Quan Trọng</th>
                 <th>Tổng phụ</th>
             </tr>
